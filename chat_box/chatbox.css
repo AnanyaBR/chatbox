@@ -1,0 +1,71 @@
+.fullscreen{
+    background-color:white;
+}
+.chatbox{
+    
+    height:85%;
+    width: 30%;
+    background-color:black;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border:20px sold red;
+    border-radius:10px;
+    
+}
+.head{
+    background-color:darkgray;
+    height:70px;
+    padding:10px;
+    color:cyan;
+}
+
+
+.right_container{
+    background-color:cyan;
+    height:20px;
+    padding:15px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    text-align: right;
+    margin-left:210px;
+
+}
+.right1_container{
+    background-color:cyan;
+    height:20px;
+    padding:15px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    text-align: right;
+    margin-left:200px;
+
+}
+.left_container{
+    background-color:aqua;
+    height:20px;
+    padding:15px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    text-align:left;
+margin-right:150px;
+}
+.left1_container{
+    background-color:aqua;
+    height:20px;
+    padding:15px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    text-align:left;
+margin-right:250px;
+}
+.right_time{
+    font-size:small;
+    color:darkgrey;
+    text-align: right;
+}
+.left_time{
+    font-size:small;
+    color:darkgrey;
+    text-align: left;
+}
